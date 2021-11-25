@@ -15,8 +15,16 @@ individuals' life.
 ## User Interface Design
 [Link](https://www.figma.com/file/aHVms31nyS087QqSVgnMNq/ibm_proj_design?node-id=0%3A1)
 
-## Walkthrough Video of the App
+https://user-images.githubusercontent.com/95011939/143422367-18111d8a-b438-4e58-9a9d-b08ae3484be5.mp4
 
+
+
+https://user-images.githubusercontent.com/95011939/143422380-657cbfbb-b7b0-4fa0-8e14-0d9d8fe25329.mp4
+
+
+
+## Walkthrough Video of the App
+https://drive.google.com/file/d/1K8nWA5GU6ems9zpVKoOuFiscuA0k3Otk/view?usp=sharing
 
 ## Contributions 
 
