@@ -31,3 +31,7 @@ https://drive.google.com/file/d/1K8nWA5GU6ems9zpVKoOuFiscuA0k3Otk/view?usp=shari
 Anamika Shekhar , Haritha S. and Devika T.V worked on code for Flutter application\
 Devika Rajeev worked on the Walkthrough Video\
 Afreen Nasseer worked on the Frontend UI designing.
+
+## Future Scope 
+-To implement a voice to text implementation to the journal feature, where the individual instead of typing the whole entry, he/she can enter the entry through speech and it would   be automatically stored as text. This implementation could be done through integratig the IBM Watson Speech to Text is a cloud-native API that transforms voice into written text   along with the flutter code that is developed.
+- To implement a chatbot to provide further support to individual having mental health issues and subsequently encourage them to get help by providing them provisions to book an   appointment with a specialist at a hospital nearby to them. This could be implemented through flutter and dialogbox to build the chatbot and then intergrate google maps to       locate nearby hospitals and provide information about those hospitals.
