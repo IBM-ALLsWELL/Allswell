@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1K8nWA5GU6ems9zpVKoOuFiscuA0k3Otk/view?usp=shari
 
 ## Contributions 
 
-Anamika Shekhar , Haritha S. and Devika T.V worked on code for Flutter application\
+Anamika A , Haritha S. and Devika T.V worked on code for Flutter application\
 Devika Rajeev worked on the Walkthrough Video\
 Afreen Nasseer worked on the Frontend UI designing.
 
