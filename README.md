@@ -20,6 +20,6 @@ individuals' life.
 
 # Contributions 
 
-Anamika Shekhar , Haritha S. and Devika T.V worked on code for Flutter application
-Devika Rajeev worked on the Walkthrough Video
+Anamika Shekhar , Haritha S. and Devika T.V worked on code for Flutter application\
+Devika Rajeev worked on the Walkthrough Video\
 Afreen Nasseer worked on the Frontend UI designing.
