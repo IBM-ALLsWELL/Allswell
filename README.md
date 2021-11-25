@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/95011939/143422367-18111d8a-b438-4e58-
 
 
 ## Walkthrough Video of the App
-https://drive.google.com/file/d/1NN6ri_32Pt0BuEyCS_m4Yj2eRMtOHQJg/view?usp=sharing
+https://drive.google.com/file/d/1NNAufn-JwG0ClolzxqRqPnc8iQeSVnjp/view?usp=sharing
 
 ## Contributions 
 
